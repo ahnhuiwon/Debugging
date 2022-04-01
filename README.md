@@ -3,7 +3,7 @@
 
 <ul>Native WebView
   
-  <li>안드로이드 WebView 뒤로가기 디버깅</li>
+  <li><a href="https://github.com/ahnhuiwon/Debugging/blob/main/native_web/popup_back.md">안드로이드 WebView 뒤로가기 디버깅</a></li>
   <li>webView 팝업창 출력시 뒤로가기 디버깅</li>
   <li>페이지 이동시 데이터 사라지는 이슈 디버깅</li>
   
