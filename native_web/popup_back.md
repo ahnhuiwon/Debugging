@@ -19,12 +19,14 @@
     
     * modal_mode는 팝업창 true / false로 구성된 state값이며 팝업창의 display를 감지한다.
     
+    
    ![image](https://user-images.githubusercontent.com/94499416/161230065-b8200b31-2f4b-4def-ab7a-e630a5269739.png)
 
 
     * 팝업창이 출력된 상태(true)라면 히스토리 스택에 현재의 페이지 url을 넣어준다.
     * 뒤로가기 버튼을 누르면 window.onpopstate 이벤트가 감지되어 history.back()을 통해 쌓은 스택을 제거한다.
     * modal_mode의 상태값을 false로 변경해 팝업창을 닫아준다.
+    
     
    ![image](https://user-images.githubusercontent.com/94499416/161230108-c4b56e79-7327-4568-b0b7-b0fe79d846af.png)
 
