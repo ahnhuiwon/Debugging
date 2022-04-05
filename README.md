@@ -7,3 +7,9 @@
   <li>페이지 이동시 데이터 사라지는 이슈 디버깅</li>
   
 </ul>
+
+<ul>React
+  
+  <li><a href="https://github.com/ahnhuiwon/Debugging/blob/main/native_web/popup_back.md">React에서 setInterval 사용하기</a></li>
+  
+</ul>
