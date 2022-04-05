@@ -10,6 +10,6 @@
 
 <ul>React
   
-  <li><a href="https://github.com/ahnhuiwon/Debugging/blob/main/native_web/popup_back.md">React에서 setInterval 사용하기</a></li>
+  <li>React에서 setInterval 사용하기</li>
   
 </ul>
