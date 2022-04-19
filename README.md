@@ -9,5 +9,5 @@
 </ul>
 
 <ul>JavaScript
-  <li>Uncaught SyntaxError: missing ) after argument list</li>
+  <li><a href="https://github.com/ahnhuiwon/Debugging/blob/main/JavaScript/missing%20)%20after%20argument%20list">Uncaught SyntaxError: missing ) after argument list</a></li>
 </ul>
