@@ -10,7 +10,4 @@
 
 <ul>React
   
-  <li>React에서 setInterval 사용하기</li>
-  <li>useHooks 이후 렌더링 시키기</li>
-  
 </ul>
