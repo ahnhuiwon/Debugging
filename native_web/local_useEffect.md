@@ -1,7 +1,8 @@
 프로젝트를 하던중 버그를 발견해서 작성해본다.
 
 * webview 진입 후 localStorage에서 사용자 정보를 가져와 특정 조건을 만족한다면 데이터를 등록할 수 있는 기능이었다.
-* 버그가 발생하여 확인해보니 A계정 로그아웃 -> B계정 로그인 -> 페이지 렌더링시 localStorage에서 데이터를 가져온다<br> -> 이전 A계정의 정보를 가져옴(?)
+* 버그가 발생하여 확인해보니 A계정 로그아웃 -> B계정 로그인 -> 페이지 렌더링시 localStorage에서 데이터를 가져온다. <br/> 
+* -> 이전 A계정의 정보를 가져옴(?)
 
 # Uncaught SyntaxError: missing ) after argument list
 
