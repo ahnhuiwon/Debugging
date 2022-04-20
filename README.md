@@ -4,6 +4,7 @@
 <ul>Native WebView
   
   <li><a href="https://github.com/ahnhuiwon/Debugging/blob/main/native_web/popup_back.md">안드로이드 WebView 뒤로가기 디버깅</a></li>
+  <li><a href="#">setTimeout을 활용한 디버깅</a></li>
   
   
 </ul>
