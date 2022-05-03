@@ -12,3 +12,7 @@
 <ul>JavaScript
   <li><a href="https://github.com/ahnhuiwon/Debugging/blob/main/JavaScript/missing%20)%20after%20argument%20list.md">Uncaught SyntaxError: missing ) after argument list</a></li>
 </ul>
+
+<ul>React
+  <li><a href="">You are running `create-react-app` 5.0.0, which is behind the latest release (5.0.1).</a></li>
+</ul>
