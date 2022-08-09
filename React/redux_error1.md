@@ -6,7 +6,7 @@ react-redux 에서 connect 함수 사용시 제대로 코딩하지 않아서 나
 
 아래는 수정전 코드이다.
 
-``
+```
 
 export default connect(
   state => ({
